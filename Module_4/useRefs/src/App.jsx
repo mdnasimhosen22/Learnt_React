@@ -1,11 +1,12 @@
-import Counter from "./componets/Counter";
-import StopWatch from "./componets/StopWatch";
+import CallBackCatScroll from "./componets/CallBackCatScroll";
 
 export default function App() {
   return (
     <>
-      <Counter />
-      <StopWatch />
+      {/* <Counter />
+      <StopWatch /> */}
+      {/* <CatScroll /> */}
+      <CallBackCatScroll />
     </>
   );
 }
